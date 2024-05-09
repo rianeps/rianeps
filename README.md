@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 My Name is Ria and I'm a Computer Science student with a specialization in AI & ML interested in all things related to data!!<br>
-🔭I’m currently working on building a Generative AI platform for poets who are looking for inspiration in the style of their favourite artists.<br>
+🔭I’m currently working on building a AI platform for poets who are looking for inspiration in the style of their favourite artists.<br>
 🌱 I’m currently learning Generative AI.
 <!--
 **rianeps/rianeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

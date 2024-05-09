@@ -1,5 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXgxeHkzdzV2bHVocjZqcnllaWVocm1yMzRwaHpqOXg1NHhnMTc3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+</div>
 
+### Hi there 👋
+My Name is Ria and I'm a Computer Science student with a specialization in AI & ML interested in all things related to data!!
 <!--
 **rianeps/rianeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

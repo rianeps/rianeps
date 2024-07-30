@@ -5,7 +5,7 @@
 ### Hi there 👋
 My Name is Ria and I'm a Computer Science student with a specialization in AI & ML interested in all things related to data!!<br>
 - 🔭I’m currently working on building a AI platform for poets who are looking for inspiration in the style of their favourite artists.<br>
-- 🌱 I’m currently learning Generative AI.
+- 🌱 I’m currently working on NLP projects.
   
 ### Skills
 - Python, R, SQL

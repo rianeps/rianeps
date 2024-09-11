@@ -12,6 +12,7 @@ My Name is Ria and I'm a Computer Science student with a specialization in AI & 
 - NumPy, Pandas, Scikit-learn, TensorFlow, Keras
 - Data Visualization (Matplotlib, Seaborn, Plotly)
 - Machine Learning, Deep Learning
+- Tableau
 
 <!--
 **rianeps/rianeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

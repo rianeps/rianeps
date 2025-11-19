@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXgxeHkzdzV2bHVocjZqcnllaWVocm1yMzRwaHpqOXg1NHhnMTc3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
   
   # 👋 Hey there! I'm Ria
-  ### Data Enthusiast | AI/ML Specialist | Computer Science Student
+  ### Data Enthusiast | AI/ML Specialist | Data Science Student
   
   <a href="https://linkedin.com/in/n-ria" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

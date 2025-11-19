@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 My Name is Ria and I'm a Computer Science student with a specialization in AI & ML interested in all things related to data!!<br>
-- 🔭I’m currently interning at NITI Ayog(Ministry of Home Affairs) under the IT/Telecom vertical.<br>
+- 🔭I have interned at NITI Ayog(Ministry of Home Affairs) under the IT/Telecom vertical.<br>
 - 🌱 I’m currently learning D3.js for visualizations.
   
 ### Skills

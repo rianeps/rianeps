@@ -1,18 +1,92 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXgxeHkzdzV2bHVocjZqcnllaWVocm1yMzRwaHpqOXg1NHhnMTc3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+  
+  # 👋 Hey there! I'm Ria
+  ### Data Enthusiast | AI/ML Specialist | Computer Science Student
+  
+  <a href="https://linkedin.com/in/n-ria" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rianeps@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
-### Hi there 👋
-My Name is Ria and I'm a Computer Science student with a specialization in AI & ML interested in all things related to data!!<br>
-- 🔭I have interned at NITI Ayog(Ministry of Home Affairs) under the IT/Telecom vertical.<br>
-- 🌱 I’m currently learning D3.js for visualizations.
-  
-### Skills
-- Python, R, SQL
-- NumPy, Pandas, Scikit-learn, TensorFlow, Keras
-- Data Visualization (Matplotlib, Seaborn, Plotly)
-- Machine Learning, Deep Learning
-- Tableau
+---
+
+## 🚀 About Me
+
+I'm a Computer Science student specializing in **AI & ML**, passionate about transforming raw data into actionable insights. With hands-on experience in data analysis, machine learning, and visualization, I love building projects that bridge the gap between data science and real-world applications.
+
+### 💼 Experience
+- **NITI Aayog** (Ministry of Home Affairs) — Intern, IT/Telecom Vertical
+  - *Gained insights into policy-making through data-driven approaches*
+
+### 📚 Currently Learning
+- 🎨 **D3.js** — Advanced interactive data visualizations
+- 🤖 Latest trends in AI/ML and data engineering
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
+
+### Data Science & ML Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+### Specializations
+- 🤖 **Machine Learning** — Classification, Regression, Clustering
+- 🧠 **Deep Learning** — Neural Networks, CNNs, RNNs
+- 📊 **Data Analysis & Visualization** — Exploratory Data Analysis, Interactive Dashboards
+- 📈 **Statistical Analysis** — Hypothesis Testing, A/B Testing
+
+---
+
+## 📌 Featured Projects
+
+*Check out my repositories below to see what I've been working on!*
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rianeps&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianeps&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</div>
+
+---
+
+## 🎯 Goals for 2025
+
+- 📚 Master D3.js for advanced visualizations
+- 🚀 Build end-to-end ML projects with real-world impact
+- 📖 Contribute to open-source data science projects
+- 🎓 Explore cutting-edge research in AI/ML
+
+---
+
+## 💬 Let's Connect!
+
+I'm always interested in collaborating on exciting data science projects or discussing the latest trends in AI/ML. Feel free to reach out!
+
+<div align="center">
+  <b>⭐ If you find my work interesting, consider giving my repositories a star!</b>
+</div>
 
 <!--
 **rianeps/rianeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

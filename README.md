@@ -33,23 +33,29 @@ I'm a Computer Science student at **Newcastle University** specializing in **AI 
 ## 🛠️ Technical Skills
 
 ### Languages
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+</div>
 
 ### Data Science & ML Libraries
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+</div>
 
 ### Data Visualization
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2CC8F?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+</div>
 
 ### Specializations
 - 🤖 **Machine Learning** — Classification, Regression, Clustering

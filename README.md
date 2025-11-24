@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at **Newcastle University** specializing in **AI & ML**, passionate about transforming raw data into actionable insights. With hands-on experience in data analysis, machine learning, and visualization, I love building projects that bridge the gap between data science and real-world applications. Based on macOS, I'm constantly exploring how to leverage modern tools for data-driven solutions.
+I'm a Masters student at **Newcastle University** specializing in **AI & ML**, passionate about transforming raw data into actionable insights. With hands-on experience in data analysis, machine learning, and visualization, I love building projects that bridge the gap between data science and real-world applications. Based on macOS, I'm constantly exploring how to leverage modern tools for data-driven solutions.
 
 ### 💼 Experience
 - **NITI Aayog** (Ministry of Home Affairs) — Intern, IT/Telecom Vertical

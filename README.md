@@ -80,7 +80,7 @@ I'm a Masters student at **Newcastle University** specializing in **AI & ML**, p
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - 📚 Master D3.js for advanced visualizations
 - 🚀 Build end-to-end ML projects with real-world impact

@@ -75,7 +75,7 @@ I'm a Masters student at **Newcastle University** specializing in **AI & ML**, p
   <img src="https://raw.githubusercontent.com/rianeps/github-stats/master/generated/overview.svg" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rianeps/github-stats/master/generated/languages.svg" width="70%"/>
+  <img src="https://raw.githubusercontent.com/rianeps/github-stats/master/generated/languages.svg" width="49%"/>
 </p>
 
 

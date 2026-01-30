@@ -73,10 +73,10 @@ I'm a Masters student at **Newcastle University** specializing in **AI & ML**, p
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rianeps&show_icons=true&theme=nightowl" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianeps&layout=compact&theme=nightowl" alt="Top Languages" width="48%"/>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=rianeps&style=flat)
+![Followers](https://img.shields.io/github/followers/rianeps?style=flat)
+![Stars](https://img.shields.io/github/stars/rianeps?style=flat)
+
 
 ---
 

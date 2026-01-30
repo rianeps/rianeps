@@ -70,13 +70,12 @@ I'm a Masters student at **Newcastle University** specializing in **AI & ML**, p
 *Check out my repositories below to see what I've been working on!*
 
 ---
+## 📈 GitHub Stats
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rianeps&theme=nightowl&hide_border=true" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rianeps&show_icons=true&theme=nightowl" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianeps&layout=compact&theme=nightowl" alt="Top Languages" width="48%"/>
+</div>
 
 ---
 

@@ -71,11 +71,12 @@ I'm a Masters student at **Newcastle University** specializing in **AI & ML**, p
 
 ---
 
-## 📈 Developer Activity Snapshot
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="assets/github-metrics.svg" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=rianeps&theme=nightowl&hide_border=true" />
 </p>
+
 
 ---
 

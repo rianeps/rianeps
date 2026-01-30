@@ -71,12 +71,11 @@ I'm a Masters student at **Newcastle University** specializing in **AI & ML**, p
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Developer Activity Snapshot
 
-![Profile Views](https://komarev.com/ghpvc/?username=rianeps&style=flat)
-![Followers](https://img.shields.io/github/followers/rianeps?style=flat)
-![Stars](https://img.shields.io/github/stars/rianeps?style=flat)
-
+<p align="center">
+  <img src="assets/github-metrics.svg" width="90%"/>
+</p>
 
 ---
 

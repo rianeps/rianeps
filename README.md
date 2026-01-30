@@ -71,13 +71,11 @@ I'm a Masters student at **Newcastle University** specializing in **AI & ML**, p
 
 ---
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rianeps/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="49%"/>
+  <img src="https://raw.githubusercontent.com/rianeps/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="49%"/>
+</p>
 
-<a href="https://github.com/rianeps/github-stats">
-<img src="https://github.com/rianeps/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/rianeps/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/rianeps/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/rianeps/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
 
 ---
 

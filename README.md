@@ -65,10 +65,6 @@ I'm a Masters student at **Newcastle University** specializing in **AI & ML**, p
 
 ---
 
-## 📌 Featured Projects
-
-*Check out my repositories below to see what I've been working on!*
-
 ---
 ## 📈 GitHub Stats
 

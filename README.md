@@ -63,7 +63,6 @@ I'm a Masters student at **Newcastle University** specializing in **AI & ML**, p
 - 📊 **Data Analysis & Visualization** — Exploratory Data Analysis, Interactive Dashboards
 - 📈 **Statistical Analysis** — Hypothesis Testing, A/B Testing
 
----
 
 ---
 ## 📈 GitHub Stats
